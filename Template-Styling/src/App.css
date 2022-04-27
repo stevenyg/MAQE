@@ -1,5 +1,19 @@
-.App {
+.body {
+  height: 100vh;
   margin :0;
   padding:0;
   background: #ededed;
+}
+
+.mw70 {
+  max-width: 70%;
+}
+
+.mh40mw40 {
+   max-width: 40px;
+   max-height: 40px; 
+}
+
+.author-color{ 
+  color: #f47755; 
 }
